@@ -7,6 +7,9 @@
         <name>RALive</name>
         <uri>https://home.ragrouplive.dpdns.org/</uri>
     </author>
+    <language>
+     <![CDATA[ zh-HK ]]>
+    </language>
     <link rel="alternate" href="https://home.ragrouplive.dpdns.org"/>
     <subtitle>RALive (/≧▽≦)/</subtitle>
     <entry>
