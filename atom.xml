@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://noy.icu</id>
-    <title>NoyAcg 魔法陣地址發佈</title>
+    <id>https://ragrouplive.dpdns.org/</id>
+    <title>RALive地址發佈</title>
     <updated>2023-06-26T17:56:32.147Z</updated>
     <author>
-        <name>NoyAcg ICU</name>
-        <uri>https://noy.icu</uri>
+        <name>RALive</name>
+        <uri>https://home.ragrouplive.dpdns.org/</uri>
     </author>
-    <link rel="alternate" href="https://noy.asia"/>
-    <subtitle>NoyAcg 是一個專屬於紳士們的站點 (/≧▽≦)/</subtitle>
+    <link rel="alternate" href="https://home.ragrouplive.dpdns.org"/>
+    <subtitle>RALive (/≧▽≦)/</subtitle>
     <entry>
         <title type="html"><![CDATA[NoyAcg 發布新魔法陣地址]]></title>
         <id>https://noy1.top/</id>
